@@ -1,8 +1,8 @@
 ﻿# firstrep
-My first repository
+Sharks importance for healthy oceans.
 
 ![picture](Pic.jpg)
 
-![Document](Sharks.pdf)
+![Predators as Prey](Sharks.pdf)
 
 ![HiddenDoc](.travis.yml)
