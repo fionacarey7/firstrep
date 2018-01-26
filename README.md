@@ -7,3 +7,5 @@ Why Healthy Oceans Need Sharks
 ![Predators as Prey](Sharks.pdf)
 
 ![HiddenDoc](.travis.yml)
+
+![Dead Links](check_dead_links)
